@@ -54,7 +54,10 @@
 - 💰 **[Muhangi Microfinance](https://www.muhangimicrofinance.co.tz/)** — Digital micro-loans portal and capital solution platform across Tanzania.
 - 🌊 **[Waves & Love Platform](https://www.wavesnlove.com/about)** — Modern interactive web application built with React & TypeScript (featured Frontend Software Engineer).
 - 📊 **[TaxAkili](https://taxakili.com/)** — Intelligent tax accounting and compliance SaaS platform for businesses in Tanzania.
-- 📱 **[Smart Menu SaaS](https://github.com/LwenaAdam/smart-menu-saas)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
+- 🤝 **[JamiiApp (NearByServices)](https://github.com/LwenaAdam/NEARBY-SERVICES)** — On-demand marketplace app connecting verified local service providers with clients using NIDA ID checks.
+- 🍽️ **[Smart Menu SaaS](https://github.com/LwenaAdam/smart-menu-saas)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
+- 🏪 **Hesabia Shop V8.0** — Advanced African retail POS and inventory management PWA with Swahili/English voice search.
+- 🏥 **HALA MedTrack** — Offline-first medication adherence and prescription tracker for patients and pharmacies in Tanzania.
 - 📨 **[SMS Gateway](https://github.com/LwenaAdam/sms_getway)** — Scalable messaging infrastructure engine for automated transactional alerts and bulk messaging.
 - 💼 **[Developer Portfolio](https://github.com/LwenaAdam/MyPortfolio)** — High-performance responsive portfolio with interactive certification viewer and client portal.
 
