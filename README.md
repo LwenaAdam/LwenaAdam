@@ -1,7 +1,7 @@
 # <div align="center">Hi there, I'm Lwena Adam 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Mobile+Engineer;Founder+%26+CEO+%40+TechWare+Africa;Building+Scalable+SaaS+%26+Mobile+Apps;Flutter+%7C+React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=680&lines=Full+Stack+%26+Mobile+Engineer;Founder+%26+CEO+%40+TechWare+Africa;Building+Scalable+SaaS+%26+Mobile+Apps;Flutter+%7C+React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 <p align="center">
