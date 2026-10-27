@@ -50,6 +50,10 @@
 
 ### 🚀 Highlight Projects
 
+- ⚡ **[Powergrid Engineering](https://powergridengineering.co.tz/)** — Solar energy systems, engineering showcase, and client consultation web application.
+- 💰 **[Muhangi Microfinance](https://www.muhangimicrofinance.co.tz/)** — Digital micro-loans portal and capital solution platform across Tanzania.
+- 🌊 **[Waves & Love Platform](https://www.wavesnlove.com/about)** — Modern interactive web application built with React & TypeScript (featured Frontend Software Engineer).
+- 📊 **[TaxAkili](https://taxakili.com/)** — Intelligent tax accounting and compliance SaaS platform for businesses in Tanzania.
 - 📱 **[Smart Menu SaaS](https://github.com/LwenaAdam/smart-menu-saas)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
 - 📨 **[SMS Gateway](https://github.com/LwenaAdam/sms_getway)** — Scalable messaging infrastructure engine for automated transactional alerts and bulk messaging.
 - 💼 **[Developer Portfolio](https://github.com/LwenaAdam/MyPortfolio)** — High-performance responsive portfolio with interactive certification viewer and client portal.
