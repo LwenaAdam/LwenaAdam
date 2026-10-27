@@ -1,7 +1,7 @@
 # <div align="center">Hi there, I'm Lwena Adam 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=680&lines=Full+Stack+%26+Mobile+Engineer;Founder+%26+CEO+%40+TechWare+Africa;Building+Scalable+SaaS+%26+Mobile+Apps;Flutter+%7C+React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=680&lines=Full+Stack+%26+Mobile+Engineer;Software+Engineer+%40+Sartify+%26+ShuleSoft;Founder+%26+CEO+%40+TechWare+Africa;Flutter+%7C+React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,7 +15,9 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Founder & CEO** at **[TechWare Africa](https://techwareafrica.tech)** — architecting and shipping enterprise-grade SaaS platforms and mobile applications.
+- 🚀 **Software Engineer & Tech Entrepreneur**:
+  - Engineering at **Sartify** & **ShuleSoft** (East Africa's premier school management software ecosystem).
+  - **Founder & CEO** at **[TechWare Africa](https://techwareafrica.tech)** — building production-ready SaaS platforms and mobile applications.
 - 📱 **Mobile Specialist**: 4+ years crafting fluid cross-platform applications with **Flutter & Dart** and native Android with **Java**.
 - 🌐 **Full-Stack & Cloud**: Architecting robust backends with **Node.js, Express, TypeScript, and Java**, with real-time data persistence via **Supabase, Firebase, and PostgreSQL**.
 - 🛠️ Shipped production solutions in **FinTech, SMS Gateway routing, Healthcare, and School Management Ecosystems** across East Africa.
@@ -57,6 +59,7 @@
 - 🤝 **[JamiiApp (NearByServices)](https://github.com/LwenaAdam/NEARBY-SERVICES)** — On-demand marketplace app connecting verified local service providers with clients using NIDA ID checks.
 - 🍽️ **[Smart Menu SaaS](https://github.com/LwenaAdam/smart-menu-saas)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
 - 🏪 **Hesabia Shop V8.0** — Advanced African retail POS and inventory management PWA with Swahili/English voice search.
+- 🏥 **HALA MedTrack** — Offline-first medication adherence and prescription tracker for patients and pharmacies in Tanzania.
 - 📨 **[SMS Gateway](https://github.com/LwenaAdam/sms_getway)** — Scalable messaging infrastructure engine for automated transactional alerts and bulk messaging.
 - 💼 **[Developer Portfolio](https://github.com/LwenaAdam/MyPortfolio)** — High-performance responsive portfolio with interactive certification viewer and client portal.
 
