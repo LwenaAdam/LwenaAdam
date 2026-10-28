@@ -18,7 +18,7 @@
 - 🚀 **Software Engineer & Tech Entrepreneur**:
   - Engineering at **Sartify** & **ShuleSoft** (East Africa's premier school management software ecosystem).
   - **Founder & CEO** at **[TechWare Africa](https://techwareafrica.tech)** — building production-ready SaaS platforms and mobile applications.
-- 📱 **Mobile Specialist**: 4+ years crafting fluid cross-platform applications with **Flutter & Dart** and native Android with **Java**.
+- 📱 **Mobile Specialist**: 5+ years crafting fluid cross-platform applications with **Flutter & Dart** and native Android with **Java**.
 - 🌐 **Full-Stack & Cloud**: Architecting robust backends with **Node.js, Express, TypeScript, and Java**, with real-time data persistence via **Supabase, Firebase, and PostgreSQL**.
 - 🛠️ Shipped production solutions in **FinTech, SMS Gateway routing, Healthcare, and School Management Ecosystems** across East Africa.
 - 📍 Based in **Dar es Salaam, Tanzania 🇹🇿**.
