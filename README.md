@@ -50,6 +50,19 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/LwenaAdam?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="Achievement: YOLO" title="YOLO" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Achievement: Pull Shark" title="Pull Shark" />
+    <img src="https://github.githubassets.com/assets/quickdraw-default--medium-dark-477cc984c57a.png" width="70" alt="Achievement: Quickdraw" title="Quickdraw" />
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" alt="Achievement: Pair Extraordinaire" title="Pair Extraordinaire" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Highlight Projects
 
 - ⚡ **[Powergrid Engineering](https://powergridengineering.co.tz/)** — Solar energy systems, engineering showcase, and client consultation web application.
@@ -57,11 +70,11 @@
 - 🌊 **[Waves & Love Platform](https://www.wavesnlove.com/about)** — Modern interactive web application built with React & TypeScript (featured Frontend Software Engineer).
 - 📊 **[TaxAkili](https://taxakili.com/)** — Intelligent tax accounting and compliance SaaS platform for businesses in Tanzania.
 - 🤝 **[JamiiApp (NearByServices)](https://github.com/LwenaAdam/NEARBY-SERVICES)** — On-demand marketplace app connecting verified local service providers with clients using NIDA ID checks.
-- 🍽️ **[Smart Menu SaaS](https://github.com/LwenaAdam/smart-menu-saas)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
+- 🍽️ **[Smart Menu SaaS](https://smartmenu.techwareafrica.tech/)** — Modern digital ordering and hospitality menu platform with real-time order tracking.
 - 🏪 **Hesabia Shop V8.0** — Advanced African retail POS and inventory management PWA with Swahili/English voice search.
 - 🏥 **HALA MedTrack** — Offline-first medication adherence and prescription tracker for patients and pharmacies in Tanzania.
-- 📨 **[SMS Gateway](https://github.com/LwenaAdam/sms_getway)** — Scalable messaging infrastructure engine for automated transactional alerts and bulk messaging.
-- 💼 **[Developer Portfolio](https://github.com/LwenaAdam/MyPortfolio)** — High-performance responsive portfolio with interactive certification viewer and client portal.
+- 📨 **[SMS Gateway Pro](https://smsgetway.techwareafrica.tech/)** — Scalable messaging infrastructure engine for automated transactional alerts and bulk messaging.
+- 💼 **[Developer Portfolio](https://lwena.techwareafrica.tech/)** — High-performance responsive portfolio with interactive certification viewer and client portal.
 
 ---
 
